@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Automation</string>
+    
+    <string-array name="year">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+        <item>VI</item>
+        <item>VII</item>
+        <item>VIII</item>
+    </string-array>
+
+    <string-array name="travelClass">
+        <item>I</item>
+        <item>II</item>
+    </string-array>
+</resources>
